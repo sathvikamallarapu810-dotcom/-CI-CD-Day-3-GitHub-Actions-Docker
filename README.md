@@ -43,6 +43,8 @@ Next: Docker Hub integration and automated image publishing.
 <img width="956" height="567" alt="Screenshot 2026-10-01 204116" src="https://github.com/user-attachments/assets/dafd13c9-ba2e-4ddb-a53e-4e20d326cc0d" />
 <img width="959" height="558" alt="Screenshot 2026-10-01 204122" src="https://github.com/user-attachments/assets/d3b63e8f-c599-461b-b8a0-064e5ab80019" />
 <img width="959" height="563" alt="Screenshot 2026-10-01 204135" src="https://github.com/user-attachments/assets/d9005c2e-c90c-47da-a914-cbbaf2a4b47b" />
+<img width="958" height="535" alt="Screenshot 2026-10-01 204526" src="https://github.com/user-attachments/assets/da79408b-da14-4ec2-bae4-7c6d94944e49" />
+
 
 
 
